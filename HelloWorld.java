@@ -4,5 +4,6 @@ public class HelloWorld {
         for(int i=0; i<=10; i++) {
             System.out.println("Result : " + i);
         }
+        System.out.println("Another update from developer");
     }
 }
